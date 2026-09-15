@@ -1,0 +1,6 @@
+{
+  "name": "Underground Lo-Fi Album Studio",
+  "description": "Concept album player and generator for 4 underground lo-fi hip-hop tracks using Lyria music AI, live synth grooves, and evaluation studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
